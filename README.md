@@ -2,7 +2,7 @@
 
 โปรเจกต์นี้เป็นตัวอย่าง **ETL pipeline** โดยใช้ **PySpark** บน Google Cloud Platform (Dataproc) และโหลดข้อมูลที่ได้เข้า **BigQuery**  
 
-## flow การทำงานของโปรเจกต์นี้
+## Flow การทำงานของโปรเจกต์นี้
 ![Pipeline Flow](diagram/workflow.png)
 - ใช้ **Spark** เพื่อ **Extract และ Transform ข้อมูล**
 - เก็บข้อมูลที่ Cloud Storage(Data lake)
