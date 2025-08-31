@@ -1,6 +1,6 @@
 # ETL Pipeline บน Google Cloud Platform
 
-โปรเจกต์นี้เป็นตัวอย่าง **ETL pipeline** โดยใช้ **PySpark** บน Google Cloud Platform (Dataproc) และโหลดข้อมูลที่ได้เข้า **BigQuery**  
+โปรเจกต์นี้เป็นตัวอย่าง **ETL pipeline** โดยใช้ **PySpark** บน Google Cloud Platform
 
 ## Flow การทำงานของโปรเจกต์นี้
 ![Pipeline Flow](diagram/workflow.png)
